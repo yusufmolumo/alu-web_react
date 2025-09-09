@@ -1,0 +1,20 @@
+.Notifications {
+  border: 2px dotted red;
+}
+
+.Notifications p {
+  font-weight: bold;
+  padding: 3px;
+}
+.Notifications ul {
+  padding: 20;
+}
+
+li[data-priority="default"] {
+  color: #0d0876;
+  font-weight: normal;
+}
+
+li[data-priority="urgent"] {
+  color: #f00;
+}

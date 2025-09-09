@@ -1,0 +1,1 @@
+these are scripts for react intro
